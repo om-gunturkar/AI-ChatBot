@@ -1,4 +1,4 @@
-# AI ChatBot - Intent Classifier
+# AI ChatBot
 
 A simple AI-powered chatbot built using Python and Machine Learning.
 
